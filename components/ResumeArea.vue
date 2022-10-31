@@ -162,7 +162,17 @@
               </div>
               <div class="col-md-6">
                 <div class="progress-wrap">
-                  <h5>jQuery</h5>
+                  <h5>Vue 3</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:95%">
+                      <span>95%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>React</h5>
                   <div class="progress">
                     <div class="progress-bar" style="width:85%">
                       <span>85%</span>
@@ -174,8 +184,8 @@
                 <div class="progress-wrap">
                   <h5>HTML5</h5>
                   <div class="progress">
-                    <div class="progress-bar" style="width:95%">
-                      <span>95%</span>
+                    <div class="progress-bar" style="width:100%">
+                      <span>100%</span>
                     </div>
                   </div>
                 </div>
@@ -206,6 +216,36 @@
                   <div class="progress">
                     <div class="progress-bar" style="width:80%">
                       <span>80%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Python Flask</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:95%">
+                      <span>95%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>Blockchain</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:95%">
+                      <span>95%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="progress-wrap">
+                  <h5>React Native</h5>
+                  <div class="progress">
+                    <div class="progress-bar" style="width:95%">
+                      <span>95%</span>
                     </div>
                   </div>
                 </div>
