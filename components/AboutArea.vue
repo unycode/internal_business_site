@@ -8,7 +8,7 @@
           <div class="img-about">
             <img
               class="img-fluid"
-              src="https://via.placeholder.com/824x1024"
+              src="/assets/img/about/teamwork.jpg"
               alt="abou me"
             />
           </div>
