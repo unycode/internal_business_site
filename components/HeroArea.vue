@@ -6,32 +6,31 @@
         <div class="col-lg-6 col-md-12">
           <!-- Start Hero Caption -->
           <div class="hero-caption">
-            <span class="subheading">Hey! I am</span>
-            <h1>Karim EzZat !</h1>
+            <span class="subheading">Hey! We are</span>
+            <h1>Unycode !</h1>
             <div>
-              I'm a
+              We are
               <div id="typed-strings">
               <!-- Animated Text Writer -->
-              <span>Freelancer.</span>
-              <span>Web Designer.</span>
-              <span>Developer.</span>
-              <span>Photographer.</span>
-              <span>Marketer.</span>
+              <span>Freelancers.</span>
+              <span>Web Designers.</span>
+              <span>Web Developers.</span>
+              <span>Data Analysts.</span>
+              <span>Consultants.</span>
             </div>
             <span class="LR-C" id="typed" style="white-space:pre;"></span>
             </div>
             <p>
-              Dorem ipsum dolor sitamet, consectetur adipiscing elit, sed do
-              eiusm tempor incididunt ulabore et dolore magna aliqua.
+              To create a valuable and seamless solution for all our clients.
             </p>
-            <a href="#" class="btn radius-btn">Download</a>
+<!--            <a href="#" class="btn radius-btn">Download</a>-->
           </div>
           <!-- End Hero Caption -->
         </div>
         <div class="col-lg-6 d-none d-lg-block">
           <!-- Hero Right Image -->
           <div class="hero-img">
-            <img src="https://via.placeholder.com/500x716" alt="Hero image" />
+            <img src="assets/img/hero/hero.png" alt="Hero image" />
           </div>
         </div>
       </div>

@@ -5,10 +5,10 @@
     <AboutArea />
     <ResumeArea />
     <WorksArea />
-    <PriceArea />
+<!--    <PriceArea />-->
     <HireArea />
-    <TestimonialArea />
-    <BlogArea />
+<!--    <TestimonialArea />-->
+<!--    <BlogArea />-->
     <ContactArea />
   </div>
 </template>
