@@ -1,8 +1,8 @@
 {
-  "name": "cobra",
+  "name": "Unycode",
   "version": "1.0.0",
-  "description": "My awesome Nuxt.js project",
-  "author": "KarimEzZat",
+  "description": "Unycode limited porfolio website",
+  "author": "Unycode Limited",
   "private": true,
   "scripts": {
     "dev": "nuxt",
