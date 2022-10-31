@@ -21,7 +21,7 @@
               </div>
               <div class="media-body">
                 <h4>Email</h4>
-                <span>Your@gmail.com</span>
+                <span>admin@unycode.net</span>
               </div>
             </div>
 
@@ -31,7 +31,8 @@
               </div>
               <div class="media-body">
                 <h4>Phone</h4>
-                <span>111-2222-333</span>
+                <span>876-201-5868</span><br/>
+                <span>876-557-8447</span>
               </div>
             </div>
 
@@ -40,8 +41,8 @@
                 <i class="icon-social-skype"></i>
               </div>
               <div class="media-body">
-                <h4>Skype</h4>
-                <span>Yuor Skype</span>
+                <h4>Address</h4>
+                <span>Montego Bay, St. James, Jamaica.</span>
               </div>
             </div>
           </div>

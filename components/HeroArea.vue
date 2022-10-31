@@ -9,7 +9,7 @@
             <span class="subheading">Hey! We are</span>
             <h1>Unycode !</h1>
             <div>
-              We are
+              A team of
               <div id="typed-strings">
               <!-- Animated Text Writer -->
               <span>Freelancers.</span>

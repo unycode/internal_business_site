@@ -19,7 +19,7 @@
               <li><a href="#page-1">Education</a></li>
               <li><a href="#page-2">Experience</a></li>
               <li><a href="#page-3">Skills</a></li>
-              <li><a href="#page-4">Awards</a></li>
+<!--              <li><a href="#page-4">Awards</a></li>-->
             </ul>
           </nav>
           <!-- End Resume Nav -->
@@ -35,9 +35,9 @@
                 <span class="icon-graduation"></span>
               </div>
               <div class="text pl-3">
-                <span class="date">2014-2015</span>
+                <span class="date">2018-2022</span>
                 <h4>Bachelor in Computer Science</h4>
-                <span class="position">Mansoura University</span>
+                <span class="position">University of Technology Jamaica</span>
                 <p>
                   Lorem ipsum, or lipsum as it is sometimes known, is dummy text
                   used in laying out print, graphic or web designs. The passage
@@ -53,9 +53,9 @@
                 <span class="icon-graduation"></span>
               </div>
               <div class="text pl-3">
-                <span class="date">2014-2015</span>
+                <span class="date">2016-2017</span>
                 <h4>Diploma in Computer</h4>
-                <span class="position">Mansoura University</span>
+                <span class="position">Heart College Of Innovation and Technology</span>
                 <p>
                   Lorem ipsum, or lipsum as it is sometimes known, is dummy text
                   used in laying out print, graphic or web designs. The passage
@@ -64,24 +64,24 @@
                 </p>
               </div>
             </div>
-            <div class="resume-wrap transition d-flex">
-              <div
-                class="icon d-flex align-items-center justify-content-center"
-              >
-                <span class="icon-graduation"></span>
-              </div>
-              <div class="text pl-3">
-                <span class="date">2014-2015</span>
-                <h4>Art &amp; Creative Director</h4>
-                <span class="position">Mansoura University</span>
-                <p>
-                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-                  used in laying out print, graphic or web designs. The passage
-                  is attributed to an unknown typesetter in the 15th century who
-                  is thought to have.
-                </p>
-              </div>
-            </div>
+<!--            <div class="resume-wrap transition d-flex">-->
+<!--              <div-->
+<!--                class="icon d-flex align-items-center justify-content-center"-->
+<!--              >-->
+<!--                <span class="icon-graduation"></span>-->
+<!--              </div>-->
+<!--              <div class="text pl-3">-->
+<!--                <span class="date">2014-2015</span>-->
+<!--                <h4>Art &amp; Creative Director</h4>-->
+<!--                <span class="position">Mansoura University</span>-->
+<!--                <p>-->
+<!--                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text-->
+<!--                  used in laying out print, graphic or web designs. The passage-->
+<!--                  is attributed to an unknown typesetter in the 15th century who-->
+<!--                  is thought to have.-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
           </div>
           <!-- End Education -->
 
@@ -95,9 +95,9 @@
                 <span class="icon-briefcase"></span>
               </div>
               <div class="text pl-3">
-                <span class="date">2014-2015</span>
-                <h4>Software Developer</h4>
-                <span class="position">Mansoura University</span>
+                <span class="date">2018</span>
+                <h4>Software Engineer</h4>
+                <span class="position">Alvys.com</span>
                 <p>
                   Lorem ipsum, or lipsum as it is sometimes known, is dummy text
                   used in laying out print, graphic or web designs. The passage
@@ -106,24 +106,24 @@
                 </p>
               </div>
             </div>
-            <div class="resume-wrap transition d-flex">
-              <div
-                class="icon d-flex align-items-center justify-content-center"
-              >
-                <span class="icon-briefcase"></span>
-              </div>
-              <div class="text pl-3">
-                <span class="date">2014-2015</span>
-                <h4>Web Marketing</h4>
-                <span class="position">Mansoura University</span>
-                <p>
-                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-                  used in laying out print, graphic or web designs. The passage
-                  is attributed to an unknown typesetter in the 15th century who
-                  is thought to have.
-                </p>
-              </div>
-            </div>
+<!--            <div class="resume-wrap transition d-flex">-->
+<!--              <div-->
+<!--                class="icon d-flex align-items-center justify-content-center"-->
+<!--              >-->
+<!--                <span class="icon-briefcase"></span>-->
+<!--              </div>-->
+<!--              <div class="text pl-3">-->
+<!--                <span class="date">2014-2015</span>-->
+<!--                <h4>Web Marketing</h4>-->
+<!--                <span class="position">Grap</span>-->
+<!--                <p>-->
+<!--                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text-->
+<!--                  used in laying out print, graphic or web designs. The passage-->
+<!--                  is attributed to an unknown typesetter in the 15th century who-->
+<!--                  is thought to have.-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
 
             <div class="resume-wrap transition d-flex">
               <div
@@ -132,9 +132,9 @@
                 <span class="icon-briefcase"></span>
               </div>
               <div class="text pl-3">
-                <span class="date">2017-2018</span>
+                <span class="date">2017</span>
                 <h4>UI/UX Designer</h4>
-                <span class="position">Mansoura University</span>
+                <span class="position">Remax Realty Group JA</span>
                 <p>
                   Lorem ipsum, or lipsum as it is sometimes known, is dummy text
                   used in laying out print, graphic or web designs. The passage
@@ -215,63 +215,63 @@
           <!-- End Skills -->
 
           <!-- Start Awards -->
-          <div id="page-4" class="page four">
-            <h3 class="heading">Awards</h3>
-            <div class="resume-wrap transition d-flex">
-              <div
-                class="icon d-flex align-items-center justify-content-center"
-              >
-                <span class="icon-badge"></span>
-              </div>
-              <div class="text pl-3">
-                <span class="date">2014-2015</span>
-                <h4>Top 10 Web Developer</h4>
-                <span class="position">Mansoura University</span>
-                <p>
-                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-                  used in laying out print, graphic or web designs. The passage
-                  is attributed to an unknown typesetter in the 15th century who
-                  is thought to have.
-                </p>
-              </div>
-            </div>
-            <div class="resume-wrap transition d-flex">
-              <div
-                class="icon d-flex align-items-center justify-content-center"
-              >
-                <span class="icon-badge"></span>
-              </div>
-              <div class="text pl-3">
-                <span class="date">2014-2015</span>
-                <h4>Top 5 LeaderShip Exellence Winner</h4>
-                <span class="position">Mansoura University</span>
-                <p>
-                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-                  used in laying out print, graphic or web designs. The passage
-                  is attributed to an unknown typesetter in the 15th century who
-                  is thought to have.
-                </p>
-              </div>
-            </div>
-            <div class="resume-wrap transition d-flex">
-              <div
-                class="icon d-flex align-items-center justify-content-center"
-              >
-                <span class="icon-badge"></span>
-              </div>
-              <div class="text pl-3">
-                <span class="date">2014-2015</span>
-                <h4>Top 4 Web Tester</h4>
-                <span class="position">Mansoura University</span>
-                <p>
-                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text
-                  used in laying out print, graphic or web designs. The passage
-                  is attributed to an unknown typesetter in the 15th century who
-                  is thought to have.
-                </p>
-              </div>
-            </div>
-          </div>
+<!--          <div id="page-4" class="page four">-->
+<!--            <h3 class="heading">Awards</h3>-->
+<!--            <div class="resume-wrap transition d-flex">-->
+<!--              <div-->
+<!--                class="icon d-flex align-items-center justify-content-center"-->
+<!--              >-->
+<!--                <span class="icon-badge"></span>-->
+<!--              </div>-->
+<!--              <div class="text pl-3">-->
+<!--                <span class="date">2014-2015</span>-->
+<!--                <h4>Top 10 Web Developer</h4>-->
+<!--                <span class="position">Mansoura University</span>-->
+<!--                <p>-->
+<!--                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text-->
+<!--                  used in laying out print, graphic or web designs. The passage-->
+<!--                  is attributed to an unknown typesetter in the 15th century who-->
+<!--                  is thought to have.-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--            <div class="resume-wrap transition d-flex">-->
+<!--              <div-->
+<!--                class="icon d-flex align-items-center justify-content-center"-->
+<!--              >-->
+<!--                <span class="icon-badge"></span>-->
+<!--              </div>-->
+<!--              <div class="text pl-3">-->
+<!--                <span class="date">2014-2015</span>-->
+<!--                <h4>Top 5 LeaderShip Exellence Winner</h4>-->
+<!--                <span class="position">Mansoura University</span>-->
+<!--                <p>-->
+<!--                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text-->
+<!--                  used in laying out print, graphic or web designs. The passage-->
+<!--                  is attributed to an unknown typesetter in the 15th century who-->
+<!--                  is thought to have.-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--            <div class="resume-wrap transition d-flex">-->
+<!--              <div-->
+<!--                class="icon d-flex align-items-center justify-content-center"-->
+<!--              >-->
+<!--                <span class="icon-badge"></span>-->
+<!--              </div>-->
+<!--              <div class="text pl-3">-->
+<!--                <span class="date">2014-2015</span>-->
+<!--                <h4>Top 4 Web Tester</h4>-->
+<!--                <span class="position">Mansoura University</span>-->
+<!--                <p>-->
+<!--                  Lorem ipsum, or lipsum as it is sometimes known, is dummy text-->
+<!--                  used in laying out print, graphic or web designs. The passage-->
+<!--                  is attributed to an unknown typesetter in the 15th century who-->
+<!--                  is thought to have.-->
+<!--                </p>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
           <!-- End Awards -->
         </div>
       </div>

@@ -19,28 +19,28 @@
           <!-- Start About Detail -->
           <div class="about-details">
             <div class="section-title mb-50">
-              <h2>About Me</h2>
+              <h2>About Us</h2>
             </div>
             <p>
-              I’m a Front End Developer. I have a Passion for Creating Clean,
+              We are a team of software consultants, very passionate about Creating Clean,
               Beautiful, Interactive, Minimalistic, Responsive and User Friendly
               UI, Developed by Modular, Scalable and Functional Code.
             </p>
             <ul class="about-info mt-4">
-              <li><span>Name:</span> <span>Karim EzZat</span></li>
+              <li><span>Company Name:</span> <span>Unycode Limited</span></li>
               <li>
-                <span>Date of birth:</span> <span>November 28, 1993</span>
+                <span>Date of registration:</span> <span>December 29, 2021</span>
               </li>
               <li>
-                <span>Address:</span> <span>Mansoura El-Dakahlia, Egypt</span>
+                <span>Address:</span> <span>Montego Bay, St. James, Jamaica.</span>
               </li>
-              <li><span>Zip code:</span> <span>1234</span></li>
-              <li><span>Email:</span> <span>karim@gmail.com</span></li>
-              <li><span>Phone: </span> <span>+1-2345-6789-0-0</span></li>
+              <li><span>Zip code:</span> <span>JMCJS12</span></li>
+              <li><span>Email:</span> <span>admin@unycode.net</span></li>
+              <li><span>Phone: </span> <span>876-201-5868</span><br/></li>
             </ul>
-            <div class="download-btn mt-5">
-              <a class="btn radius-btn" href="#">Download Cv</a>
-            </div>
+<!--            <div class="download-btn mt-5">-->
+<!--              <a class="btn radius-btn" href="#">Download Cv</a>-->
+<!--            </div>-->
           </div>
           <!-- End About Detail -->
         </div>

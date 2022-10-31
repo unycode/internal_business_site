@@ -34,9 +34,9 @@
                     <li class="nav-item">
                       <a class="nav-link transition" href="#resume">Resume</a>
                     </li>
-                    <li class="nav-item">
-                      <a class="nav-link transition" href="#works">Works</a>
-                    </li>
+<!--                    <li class="nav-item">-->
+<!--                      <a class="nav-link transition" href="#works">Works</a>-->
+<!--                    </li>-->
 <!--                    <li class="nav-item">-->
 <!--                      <a class="nav-link transition" href="#blog">Blog</a>-->
 <!--                      <ul class="submenu transition">-->

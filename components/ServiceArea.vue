@@ -6,14 +6,14 @@
         <div class="col-lg-5 mb-5 mb-lg-0">
           <div class="process-block pl-4">
             <span class="text-uppercase text-sm letter-spacing"
-              >My Services</span
+              >Our Services</span
             >
             <h2 class="service-title mb-4 mt-3">
-              I can make this awesome things
+              We develop awesome things
             </h2>
             <p>
-              I understand what your business means to you,your requirements
-              considering trends.Smet nemo excepturi voluptas eligendi .
+              We understand what your business means to you and your requirements
+              considering trends.
             </p>
           </div>
         </div>
@@ -44,7 +44,7 @@
               <!-- Start Single Service Block -->
               <div class="service-block text-center">
                 <i class="fa fa-diamond"></i>
-                <h4>Content Mangement</h4>
+                <h4>Consultation</h4>
                 <p>A complete web app solution for business</p>
               </div>
               <!-- End Single Service Block -->

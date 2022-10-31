@@ -4,9 +4,9 @@
     <ServiceArea />
     <AboutArea />
     <ResumeArea />
-    <WorksArea />
+<!--    <WorksArea />-->
 <!--    <PriceArea />-->
-    <HireArea />
+<!--    <HireArea />-->
 <!--    <TestimonialArea />-->
 <!--    <BlogArea />-->
     <ContactArea />
