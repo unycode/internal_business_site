@@ -30,7 +30,7 @@ export default {
   },
   head() {
     return {
-      title: "Cobra Vue Nuxt Personal Portfolio Template"
+      title: "Unycode Limited | Business Website"
     };
   },
   mounted() {
