@@ -60,6 +60,7 @@
                   type="text"
                   class="form-control"
                   placeholder="Enter your name"
+                  v-model="name"
                 />
               </div>
             </div>
@@ -70,6 +71,7 @@
                   class="form-control"
                   name="email"
                   placeholder="Your email address"
+                  v-model="email"
                 />
               </div>
             </div>
@@ -80,6 +82,7 @@
                   class="form-control"
                   name="subject"
                   placeholder="Enter the discussion title"
+                  v-model="subject"
                 />
               </div>
             </div>
@@ -90,12 +93,13 @@
                   id="message"
                   class="form-control"
                   placeholder="Write your message"
+                  v-model="message"
                 ></textarea>
               </div>
             </div>
             <div class="col-xs-12 col-sm-12">
               <div class="button-field">
-                <button type="submit" class="btn radius-btn">
+                <button @click="sendMessage"  type="button" class="btn radius-btn">
                   Send Message now
                 </button>
               </div>
@@ -110,6 +114,20 @@
 
 <script>
 export default {
-  name: "ContactArea"
+  name: "ContactArea",
+  data(){
+    return {
+      name: '',
+      email: '',
+      subject: '',
+      message: ''
+    }
+  },
+  methods: {
+    sendMessage() {
+      let link = `mailto:admin@unycode.net?&subject=${this.name}: ${this.subject}&body=${this.message}`;
+      window.location.href = link;
+    }
+  }
 };
 </script>
